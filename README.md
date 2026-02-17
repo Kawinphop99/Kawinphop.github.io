@@ -1,21 +1,18 @@
-# Kawinphop.github.io
-<html>
-<head>
-<title>kawinphop.github.io</title>
-</head>
+# kawinphop.github.io
 
-<body>
+Hello World, My name is Kawinphop Tuddaung
 
-<pre>
-{
-  "username": "kawinphop99",
-  "name": "Kawinphop Tuddaung",
-  "website": "https://kawinphop99.github.io/",
-  "message": "Hello, My name is Kawinphop Tuddaung",
-  "github": "https://github.com/kawinphop99",
-  "status": "Nice to meet you"
-}
-</pre>
+Nice to meet you.
 
-</body>
-</html>
+## Information
+
+- Name: Kawinphop Tuddaung  
+- GitHub Username: Kawinphop99  
+- Website: https://kawinphop99.github.io/  
+- Repository: kawinphop.github.io  
+
+## Contact
+
+- GitHub: https://github.com/Kawinphop99  
+
+Thank you for visiting my GitHub Pages.
